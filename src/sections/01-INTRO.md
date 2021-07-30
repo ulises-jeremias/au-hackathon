@@ -2,8 +2,8 @@
 
 ## Smart Crop and Design Features
 
-<hr style="border: 2px solid #586e75; background-color: #586e75" />
+<hr class="center-diamond" />
 
 Artifact Uprising
 
-<!-- <img src="./static/Artifact-Uprising-Logo-Small.png" class="nan-landing"> -->
+<!-- <img src="./static/Artifact-Uprising-Logo-Small.png" class="landing"> -->
