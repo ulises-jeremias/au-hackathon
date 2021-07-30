@@ -1,6 +1,9 @@
-<!-- .slide: class="title" -->
+<!-- .slide: class="" -->
 
-## Creating React Apps
-### the NaN way
+## Smart Crop and Design Features
 
-<img src="./static/nan-labs.png" class="nan-landing">
+<hr style="border: 2px solid #586e75; background-color: #586e75" />
+
+Artifact Uprising
+
+<!-- <img src="./static/Artifact-Uprising-Logo-Small.png" class="nan-landing"> -->

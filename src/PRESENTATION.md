@@ -1,5 +1,5 @@
 ---
-title: NaN Labs
+title: AU Hackathon
 theme: solarized
 highlightTheme: atom-one-dark
 preprocessor: preproc.js
@@ -9,7 +9,7 @@ FILE: 01-INTRO.md
 
 ---
 
-FILE: 02-CRWA.md
+FILE: 02-IDEA.md
 
 ---
 

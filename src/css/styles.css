@@ -8,8 +8,8 @@
 }
 
 .nan-landing {
-    transform: translate(45%, -75%);
-    filter: opacity(0.5) drop-shadow(0 0 0 blue);
+    transform: translate(45%, -45%);
+    filter: opacity(0.5) drop-shadow(0 0 0 black);
 }
 
 .owner {
