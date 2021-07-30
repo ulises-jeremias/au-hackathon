@@ -2,4 +2,4 @@ What's next?
 
 ### Ship it!
 
-<img src="./static/Shipitparrot.gif" class="owner">
+<img src="./static/Shipitparrot.gif" class="bordered owner">

@@ -1,9 +1,9 @@
-# Future Work
+<!-- .slide: style="text-align: left;" -->
 
-----
-
-<!-- .slide: class="todo" -->
-
+### Future Work
 ## More features
 
-
+- Make smart crop the default behaviour
+- Add Object Detection feature
+- Integrate Face Detection to Editor v2
+- . . .

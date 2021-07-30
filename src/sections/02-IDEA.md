@@ -2,19 +2,23 @@
 
 ----
 
-<img src="./static/editor-step-1.png" style="margin-left: -12%; max-width: 120%; max-height: 120%">
+<img class="bordered" src="./static/editor-step-1.png" style="margin-left: -12%; max-width: 120%; max-height: 120%">
 
 ----
 
-<img src="./static/images/demo-1.jpg" width="40%">
+<img class="bordered" src="./static/images/demo-1.jpg" width="40%">
 
 ----
 
-<img src="./static/editor-step-2.png" style="margin-left: -12%; max-width: 120%; max-height: 120%">
+<img class="bordered" src="./static/editor-step-2.png" style="margin-left: -12%; max-width: 120%; max-height: 120%">
 
 ----
 
-<img src="./static/editor-step-3.gif" style="margin-left: -12%; max-width: 120%; max-height: 120%">
+<img src="./static/Crying-cat.jpg" class="owner">
+
+----
+
+<img class="bordered" src="./static/editor-step-3.gif" style="margin-left: -12%; max-width: 120%; max-height: 120%">
 
 ----
 
