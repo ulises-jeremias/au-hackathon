@@ -25,9 +25,9 @@ FILE: 05-FUTURE.md
 
 ---
 
----
-
 # Thank you!
+
+---
 
 ---
 
