@@ -12,14 +12,13 @@
   filter: opacity(0.5) drop-shadow(0 0 0 black);
 }
 
-img {
+img.bordered {
   border: 2px solid #586e75;
   border-radius: 5px;
 }
 
 .owner {
   border-radius: 5px;
-  border: 2px solid #586e75;
   height: 300px;
 }
 
