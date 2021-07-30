@@ -1,7 +1,5 @@
-It is on production?
+What's next?
 
 ### Ship it!
 
-----
-
-<img src="./static/Shipitparrot.gif">
+<img src="./static/Shipitparrot.gif" class="owner">
