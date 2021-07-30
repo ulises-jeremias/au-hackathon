@@ -1,0 +1,18 @@
+.backgrounds {
+    background-color: white !important;
+}
+
+.title {
+    margin-top: 28%;
+    margin-left: 5%;
+}
+
+.nan-landing {
+    transform: translate(45%, -75%);
+    filter: opacity(0.5) drop-shadow(0 0 0 blue);
+}
+
+.owner {
+    border-radius: 50%;
+    height: 300px;
+}

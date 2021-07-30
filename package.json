@@ -1,0 +1,21 @@
+{
+  "name": "crwp-nanlabs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:ulises-jeremias/crwp-nanlabs.git",
+  "author": "ulises-jeremias <ulisescf.24@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "reveal-md src/PRESENTATION.md -w --css src/css/grid.css,src/css/styles.css",
+    "build": "reveal-md src/PRESENTATION.md --static ./build --static-dirs=src/static  --css src/css/grid.css,src/css/styles.css",
+    "open:chrome": "yarn build && chrome index.html",
+    "open:chromium": "yarn build && chromium index.html",
+    "open:firefox": "yarn build && firefox index.html"
+  },
+  "devDependencies": {
+    "reveal-md": "^4.1.4"
+  },
+  "dependencies": {
+    "start": "^5.1.0"
+  }
+}

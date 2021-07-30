@@ -1,0 +1,14 @@
+node_modules/
+dist/
+build/
+css/
+js/
+lib/
+plugin/
+static/
+
+!src/css/
+!src/static/
+
+*.html
+
