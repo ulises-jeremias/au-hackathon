@@ -1,0 +1,39 @@
+.backgrounds {
+  background-color: white !important;
+}
+
+.title {
+  margin-top: 28%;
+  margin-left: 5%;
+}
+
+.landing {
+  transform: translate(45%, -45%);
+  filter: opacity(0.5) drop-shadow(0 0 0 black);
+}
+
+.owner {
+  border-radius: 50%;
+  height: 300px;
+}
+
+hr.center-diamond {
+  border: 0.5px solid #586e75;
+  background-color: #586e75;
+}
+
+hr.center-diamond:before {
+  content: "";
+  width: 6px;
+  height: 6px;
+  background: #cbeee5;
+  border: 2px solid #586e75;
+  display: inline-block;
+  position: absolute;
+  top: 136.5px;
+  left: 50%;
+  margin: 0 0 0 -3px;
+  transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+  -webkit-transform: rotate(45deg);
+}
