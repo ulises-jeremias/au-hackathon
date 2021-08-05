@@ -22,6 +22,18 @@
 
 ----
 
+<img src="./static/Crying-cat-1.png" class="owner">
+
+----
+
+<img src="./static/Crying-cat-2.jpg" class="owner">
+
+----
+
+<img src="./static/Crying-cat-3.jpg" class="owner">
+
+----
+
 <img class="bordered" src="./static/editor-step-3.gif" style="margin-left: -12%; max-width: 120%; max-height: 120%">
 
 ----
