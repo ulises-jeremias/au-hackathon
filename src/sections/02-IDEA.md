@@ -2,6 +2,10 @@
 
 ----
 
+<img src="./static/cat-user.jpg" class="owner">
+
+----
+
 <img class="bordered" src="./static/editor-step-1.png" style="margin-left: -12%; max-width: 120%; max-height: 120%">
 
 ----
