@@ -20,6 +20,17 @@
 
 ----
 
+<!-- .slide: style="text-align: right;" -->
+
+<img class="" src="./static/logos/subscription.png" >
+<img class="" src="./static/logos/notification.png" >
+
+----
+
+## What did we achieve?
+
+----
+
 ### Desktop Notifications
 
 <img class="bordered" src="./static/notification-1.png" width="60%" >
