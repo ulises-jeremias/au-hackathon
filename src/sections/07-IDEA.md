@@ -22,8 +22,8 @@
 
 <!-- .slide: style="text-align: right;" -->
 
-<img class="" src="./static/logos/subscription.png" >
-<img class="" src="./static/logos/notification.png" >
+<img src="./static/logos/subscription.png" >
+<img src="./static/logos/notification.png" >
 
 ----
 
